@@ -85,7 +85,7 @@
 
 ## ✨ Fun Coding Quote
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> “Build.Break.Learn.Repeat.” 
 
 ---
 
