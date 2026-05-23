@@ -69,11 +69,10 @@
 </p>
 
 ---
-
 # 💻 Most Used Languages
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baladithyamuthireddy-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baladithyamuthireddy-hub&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -85,11 +84,10 @@
 </p>
 
 ---
-
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baladithyamuthireddy-hub&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=baladithyamuthireddy-hub&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 ---
 
