@@ -63,16 +63,9 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=baladithyamuthireddy-hub&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117" />
+
 
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=baladithyamuthireddy-hub&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-</p>
-
----
-# 💻 Most Used Languages
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baladithyamuthireddy-hub&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
