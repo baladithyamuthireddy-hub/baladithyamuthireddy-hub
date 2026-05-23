@@ -17,7 +17,7 @@
 🎯 Goal: Become a skilled Software Engineer and create impactful applications  
 
 ---
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -27,16 +27,17 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## ⚡ Technologies & Tools
+## ⚡ Tools & Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,mysql,git,github,vscode" />
 </p>
-
 ---
 
 ## 📚 Currently Learning
@@ -62,12 +63,29 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=baladithyamuthireddy-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=baladithyamuthireddy-hub&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
   
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=baladithyamuthireddy-hub&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=baladithyamuthireddy-hub&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
 
+---
+
+## 💻 Top Languages
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baladithyamuthireddy-hub&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baladithyamuthireddy-hub&theme=tokyo-night&hide_border=true"/>
+</p>
 ---
 
 ## 🌐 Connect With Me
